@@ -1,9 +1,15 @@
 # Python Weather App
+
 A simple command-line weather app built with Python using the OpenWeatherMap API.
 
 ## Features
-- Fetches weather data for a specific city.
-- Displays temperature, humidity, and weather condition.
+- Fetches real-time weather data for a specific city.
+- Displays:
+  - Temperature (°C)
+  - Humidity (%)
+  - Weather Condition
+  - Wind Speed (m/s)
+  - Sunrise & Sunset Time (Local Time)
 
 ## Technologies Used
 - Python
