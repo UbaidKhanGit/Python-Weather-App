@@ -23,3 +23,4 @@ A simple command-line weather app built with Python using the OpenWeatherMap API
    pip install -r requirements.txt
 
 ## more details
+## more details
