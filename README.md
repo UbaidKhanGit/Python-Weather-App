@@ -21,6 +21,9 @@ A simple command-line weather app built with Python using the OpenWeatherMap API
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+HEAD
 
 ## more details
 ## more details
+
+origin/main
